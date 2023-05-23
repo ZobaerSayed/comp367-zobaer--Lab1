@@ -9,7 +9,9 @@ node_modules
 
 # Book build output
 _book
-
+/source/repos/comp367(zobaer)-Lab1/obj
+/source/repos/comp367(zobaer)-Lab1/Properties
+/source/repos/comp367(zobaer)-Lab1/appsettings.json
 # eBook build output
 *.epub
 *.mobi
